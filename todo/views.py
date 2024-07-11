@@ -38,3 +38,4 @@ def close(request, task_id):
     task.completed = True
     task.save()
     return redirect(index)
+    
