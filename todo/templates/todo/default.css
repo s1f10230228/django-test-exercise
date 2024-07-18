@@ -1,0 +1,22 @@
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  label, input, button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #28a745;
+    color: white;
+  }
+  
